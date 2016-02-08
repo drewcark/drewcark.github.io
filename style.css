@@ -9,3 +9,16 @@ h2 {
 	font-family:Tahoma;
 	font-weight:lighter;
 }
+p {
+	font-family:Palatino,serif;
+	margin-left:20px;
+	margin-right:20px;
+}
+#mypic img {
+	width: auto;
+	height: auto;
+	max-width: 500px;
+	max-width: 500px;
+	border: 6px double #b3b3b3;
+
+}
