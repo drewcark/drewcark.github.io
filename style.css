@@ -1,11 +1,11 @@
-<style type="text/css">
-
-h1 {font: Futura;
-	color: black;
-	background: #b3ffb3;
-	margin: 12px 12px 12px 12px;
-	padding: 8px 8px 8px 16px;
+h1 {font-family:Tahoma;
+	color:black;
+	font-weight:normal;
+	background:#99ffff;
+	margin:24px 24px 24px 24px;
+	text-align:center;
 	}
-
-
-</style>
+h2 {
+	font-family:Tahoma;
+	font-weight:lighter;
+}
