@@ -75,7 +75,7 @@ body {
 	font-family: Georgia;
 	text-align:left;
 	margin-left: 36px;
-	text-indent: 36px;
+	text-indent: 24px;
 }
 
 .descriptor {
@@ -84,4 +84,8 @@ body {
 	font-size: 10pt;
 	text-indent: 54px;
 
+}
+
+ul {
+	margin-left: 24px
 }
