@@ -1,15 +1,7 @@
-
-#resumestyle {
-	margin: 24px 36px;
-	font-family:TimesNewRoman;
-	background-color: white;
-	border: 2px solid #b3b3b3;
-	text-align:left;
-}
 h1 {font-family:Tahoma;
 	color:black;
 	font-weight:normal;
-	margin: 24px 20%;
+	margin: 20px 20%;
 	text-align:center;
 	background-size: 80px 40px;
 	background-color: #e5f8ff;
@@ -47,9 +39,8 @@ p {
 	margin-right:20px;
 	text-indent: 36px;
 }
-#bio {
-	float:right;
-	padding-left: 10px;
+#biotext {
+
 }
 .mypic img {
 	width: auto;
@@ -67,4 +58,30 @@ body {
 	font-family:Georgia;
 	text-align:left;
 	background-color: white;
+}
+#resumestyle {
+	margin: 24px 36px;
+	background-color: white;
+	border: 2px solid #b3b3b3;
+	text-align:left;
+}
+.rheader {
+	font-family: Georgia;
+	font-style: italic;
+	text-align:left;
+	margin-left: 36px;
+}
+.rpars {
+	font-family: Georgia;
+	text-align:left;
+	margin-left: 36px;
+	text-indent: 36px;
+}
+
+.descriptor {
+	font-style: italic;
+	font-weight: lighter;
+	font-size: 10pt;
+	text-indent: 54px;
+
 }
