@@ -1,8 +1,18 @@
+
+#resumestyle {
+	margin: 24px 36px;
+	font-family:TimesNewRoman;
+	background-color: white;
+	border: 2px solid #b3b3b3;
+	text-align:left;
+}
 h1 {font-family:Tahoma;
 	color:black;
 	font-weight:normal;
-	margin:24px 24px 24px 24px;
+	margin: 24px 20%;
 	text-align:center;
+	background-size: 80px 40px;
+	background-color: #e5f8ff;
 	}
 h2 {
 	font-family:Tahoma;
@@ -11,23 +21,50 @@ h2 {
 	text-align: right;
 	margin-right:15%;
 }
-a {
-
+.mainlinks a:link {
+	color: white;
+	background-color: #4d88ff;
+	border: 3px solid #b3b3b3;
+	padding: 8px;
+	text-decoration: none;
+}
+.mainlinks a:visited {
+	color: white;
+	background-color: #99bbff;
+	border: #999999;
+	padding: 8px;
+	text-decoration: none;
+}
+.mainlinks a:hover {
+	text-decoration: underline;
+}
+.mainlinks a:active {
+	text-decoration: underline;
 }
 p {
 	font-family:Palatino,serif;
-	margin-left:20%;
-	margin-right:20%;
+	margin-left:10px;
+	margin-right:20px;
 	text-indent: 36px;
 }
-#mypic img {
+#bio {
+	float:right;
+	padding-left: 10px;
+}
+.mypic img {
 	width: auto;
 	height: auto;
 	max-width: 500px;
 	max-width: 500px;
-	border: 6px double #b3b3b3;
+	border: 3px solid #b3b3b3;
+	float:left;
 
 }
 body {
-	background-color: #ccfffc;
+	background-color: #b3ecff;
+}
+#resumehead {
+	font-family:Georgia;
+	text-align:left;
+	background-color: white;
 }
