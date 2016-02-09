@@ -1,18 +1,24 @@
 h1 {font-family:Tahoma;
 	color:black;
 	font-weight:normal;
-	background:#99ffff;
 	margin:24px 24px 24px 24px;
 	text-align:center;
 	}
 h2 {
 	font-family:Tahoma;
 	font-weight:lighter;
+	font-size: 16pt;
+	text-align: right;
+	margin-right:15%;
+}
+a {
+
 }
 p {
 	font-family:Palatino,serif;
-	margin-left:20px;
-	margin-right:20px;
+	margin-left:20%;
+	margin-right:20%;
+	text-indent: 36px;
 }
 #mypic img {
 	width: auto;
@@ -21,4 +27,7 @@ p {
 	max-width: 500px;
 	border: 6px double #b3b3b3;
 
+}
+body {
+	background-color: #ccfffc;
 }
