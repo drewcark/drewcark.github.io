@@ -51,6 +51,15 @@ p {
 	float:left;
 	margin: 0px 16px;
 }
+.rightpic img {
+	width: auto;
+	height: auto;
+	max-width: 700px;
+	max-width: 500px;
+	border: 3px solid #b3b3b3;
+	float:left;
+	margin: 0px 16px;
+}
 body {
 	background-color: #b3ecff;
 }
