@@ -35,12 +35,12 @@ h2 {
 }
 p {
 	font-family:Palatino,serif;
-	margin-left:10px;
+	margin-left:8px;
 	margin-right:20px;
 	text-indent: 36px;
+	margin-top: 8px;
 }
 #biotext {
-
 }
 .mypic img {
 	width: auto;
@@ -49,7 +49,7 @@ p {
 	max-width: 500px;
 	border: 3px solid #b3b3b3;
 	float:left;
-	margin: 0px 16px;
+	margin: 8px 16px;
 }
 .rightpic img {
 	width: auto;
@@ -58,14 +58,14 @@ p {
 	max-width: 500px;
 	border: 3px solid #b3b3b3;
 	float:left;
-	margin: 0px 16px;
+	margin: 8px 16px;
 }
 body {
 	background-color: #b3ecff;
 }
 #resumehead {
 	font-family:Georgia;
-	text-align:left;
+	text-align:center;
 	background-color: white;
 }
 #resumestyle {
